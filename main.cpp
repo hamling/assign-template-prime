@@ -2,8 +2,11 @@
 
 using namespace std;
 
-int main(int argc, char *argv[])
+// Write a function named isPrime which determines whether or not a number is prime
+// use that function in main to list all the primes less than 1000
+
+int main()
 {
-    cout << "Hello World!" << endl;
+
     return 0;
 }
